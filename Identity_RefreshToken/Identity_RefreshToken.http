@@ -1,0 +1,6 @@
+@Identity_RefreshToken_HostAddress = http://localhost:5101
+
+GET {{Identity_RefreshToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
