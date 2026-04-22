@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Identity_RefreshToken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b55c05d1e2d3bc83a0b5c5da4fa980d78de133f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Identity_RefreshToken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Identity_RefreshToken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
